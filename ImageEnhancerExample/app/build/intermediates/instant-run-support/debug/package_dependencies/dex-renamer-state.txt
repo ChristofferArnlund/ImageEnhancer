@@ -1,0 +1,4 @@
+#Sun Jul 30 10:44:46 CEST 2017
+base.0=C\:\\ImageEnhancer\\ImageEnhancerExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_3e935972fb08672c39258f70e7aea7c0938f382e
+renamed.0=classes.dex
+file.0=C\:\\ImageEnhancer\\ImageEnhancerExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_3e935972fb08672c39258f70e7aea7c0938f382e\\classes.dex

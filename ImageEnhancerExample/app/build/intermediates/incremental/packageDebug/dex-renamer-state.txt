@@ -1,0 +1,7 @@
+#Sun Jul 30 12:46:59 CEST 2017
+base.0=C\:\\ImageEnhancer\\ImageEnhancerExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_32b36fb9ba4bbeaf7a412823833fc6bb269218d5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\ImageEnhancer\\ImageEnhancerExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6ebf9f4d43d2c76e3fe8f7b3b0573f2157b04416\\classes.dex
+base.1=C\:\\ImageEnhancer\\ImageEnhancerExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6ebf9f4d43d2c76e3fe8f7b3b0573f2157b04416
+file.0=C\:\\ImageEnhancer\\ImageEnhancerExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_32b36fb9ba4bbeaf7a412823833fc6bb269218d5\\classes.dex

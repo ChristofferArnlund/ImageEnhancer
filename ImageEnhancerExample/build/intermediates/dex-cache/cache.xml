@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Christoffer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\ImageEnhancer\ImageEnhancerExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_3e935972fb08672c39258f70e7aea7c0938f382e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ImageEnhancer\ImageEnhancerExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aacb7c053e5bf72f35a56b9c8590fea4e8befdd3">
+        <dex dex="C:\ImageEnhancer\ImageEnhancerExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6ebf9f4d43d2c76e3fe8f7b3b0573f2157b04416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ImageEnhancer\ImageEnhancerExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\ImageEnhancer\ImageEnhancerExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_32b36fb9ba4bbeaf7a412823833fc6bb269218d5\classes.dex" />
+    </item>
+
+</items>
